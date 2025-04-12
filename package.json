@@ -94,7 +94,7 @@
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "styled-components": "^5.3.3",
+    "styled-components": "^5.3.11",
     "tslib": "^1.10.0"
   }
 }
